@@ -3,147 +3,147 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://ndh.netlify.com/about/</loc>
     <lastmod>2019-04-19T21:37:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://ndh.netlify.com/</loc>
     <lastmod>2019-04-19T21:37:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/css/</loc>
+    <loc>https://ndh.netlify.com/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/html/</loc>
+    <loc>https://ndh.netlify.com/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/markdown/</loc>
+    <loc>https://ndh.netlify.com/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/markdown-syntax/</loc>
+    <loc>https://ndh.netlify.com/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://ndh.netlify.com/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/series/</loc>
+    <loc>https://ndh.netlify.com/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ndh.netlify.com/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/themes/</loc>
+    <loc>https://ndh.netlify.com/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/series/themes-guide/</loc>
+    <loc>https://ndh.netlify.com/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/privacy/</loc>
+    <loc>https://ndh.netlify.com/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/rich-content/</loc>
+    <loc>https://ndh.netlify.com/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/shortcodes/</loc>
+    <loc>https://ndh.netlify.com/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/placeholder-text/</loc>
+    <loc>https://ndh.netlify.com/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/text/</loc>
+    <loc>https://ndh.netlify.com/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/math-typesetting/</loc>
+    <loc>https://ndh.netlify.com/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/emoji/</loc>
+    <loc>https://ndh.netlify.com/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/emoji-support/</loc>
+    <loc>https://ndh.netlify.com/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/post-5/</loc>
+    <loc>https://ndh.netlify.com/posts/post-5/</loc>
     <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/post-6/</loc>
+    <loc>https://ndh.netlify.com/posts/post-6/</loc>
     <lastmod>2018-03-18T12:13:36+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/post-4/</loc>
+    <loc>https://ndh.netlify.com/posts/post-4/</loc>
     <lastmod>2018-03-18T12:13:35+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/post-3/</loc>
+    <loc>https://ndh.netlify.com/posts/post-3/</loc>
     <lastmod>2018-03-18T12:13:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/procrastinating/</loc>
+    <loc>https://ndh.netlify.com/tags/procrastinating/</loc>
     <lastmod>2018-03-18T12:13:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/post-2/</loc>
+    <loc>https://ndh.netlify.com/posts/post-2/</loc>
     <lastmod>2018-03-18T12:13:30+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/space/</loc>
+    <loc>https://ndh.netlify.com/tags/space/</loc>
     <lastmod>2018-03-18T12:13:30+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/primer/</loc>
+    <loc>https://ndh.netlify.com/tags/primer/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/post-1/</loc>
+    <loc>https://ndh.netlify.com/posts/post-1/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/todo/</loc>
+    <loc>https://ndh.netlify.com/tags/todo/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url>
   
